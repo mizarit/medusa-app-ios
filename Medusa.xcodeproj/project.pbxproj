@@ -116,7 +116,7 @@
 		63C33ED2131D5A8A00FA982C /* DDPageControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDPageControl.m; sourceTree = "<group>"; };
 		8C168BA41AE5097500FD32CE /* Medusa-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Medusa-Info.plist"; sourceTree = "<group>"; };
 		8C168BA61AE5099600FD32CE /* Medusa_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Medusa_Prefix.pch; sourceTree = "<group>"; };
-		8C698BAC1AE50D390093BE23 /* medusa-app-ios */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "medusa-app-ios"; sourceTree = "<group>"; };
+		8C698BAC1AE50D390093BE23 /* medusa-app-ios */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "medusa-app-ios"; sourceTree = "<group>"; };
 		8C8D16C11ADFE52000022D24 /* NSObject+SEWebviewJSListener.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+SEWebviewJSListener.m"; sourceTree = "<group>"; };
 		8C8D16C31ADFE55500022D24 /* NSObject+SEWebviewJSListener.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSObject+SEWebviewJSListener.h"; sourceTree = "<group>"; };
 		8C9196341ADFA23900F55DEC /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };

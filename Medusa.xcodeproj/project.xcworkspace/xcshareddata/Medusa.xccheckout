@@ -7,32 +7,32 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>A54F2C99-B9EF-43D8-BF56-F42F8B7170DD</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Medusa</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>C8A2C868AE1D43361C40653BE57FF94C52426507</key>
-		<string>https://github.com/mizarit/health-challenge-app-ios.git</string>
+		<key>39DC3B8B89BF77DA42057C78E354F94F1E5ED37C</key>
+		<string>https://github.com/mizarit/medusa-app-ios.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Medusa.xcodeproj/project.xcworkspace</string>
+	<string>Medusa.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>C8A2C868AE1D43361C40653BE57FF94C52426507</key>
+		<key>39DC3B8B89BF77DA42057C78E354F94F1E5ED37C</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/mizarit/health-challenge-app-ios.git</string>
+	<string>https://github.com/mizarit/medusa-app-ios.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>C8A2C868AE1D43361C40653BE57FF94C52426507</string>
+	<string>39DC3B8B89BF77DA42057C78E354F94F1E5ED37C</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>C8A2C868AE1D43361C40653BE57FF94C52426507</string>
+			<string>39DC3B8B89BF77DA42057C78E354F94F1E5ED37C</string>
 			<key>IDESourceControlWCCName</key>
 			<string>medusa-app-ios</string>
 		</dict>

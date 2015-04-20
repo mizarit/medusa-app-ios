@@ -166,6 +166,7 @@
     return YES;
 }
 - (void)webviewMessageKey:(NSString *)key value:(NSString *)val {
+    
     if ([key isEqualToString:@"ios-log"]) {
         NSLog(@"__js__>> %@", val);
     }
